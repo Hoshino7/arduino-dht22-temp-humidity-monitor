@@ -56,7 +56,7 @@ Sebelum mengunggah kode program, pastikan kamu telah menginstal:
 ## 🚀 Cara Penggunaan
 1. **Clone Repository ini**:
    ```bash
-   git clone https://github.com/username/arduino-dht22-temp-humidity-monitor.git
+   git clone https://github.com/Hoshino7/arduino-dht22-temp-humidity-monitor.git
    ```
 2. Rangkai seluruh komponen sesuai skema wiring di atas.
 3. Buka file `src/main.ino` di Arduino IDE.
